@@ -73,13 +73,12 @@ Unity 패키지(`mjrun3.unitypackage`)에서 추출한 **팀 작성 C# 스크립
 Game_Programming/
 ├── src/                    # 팀 작성 C# 스크립트 (패키지에서 추출, 열람용)
 ├── mjrun3.unitypackage     # 게임 전체 (씬·프리팹·에셋 포함, 임포트용)
-├── aseprite자료/           # 직접 제작한 픽셀아트 원본(.aseprite)·PNG
-└── 최종발표.pdf            # 기획·레벨디자인·역할분담 발표자료
+└── aseprite자료/           # 직접 제작한 픽셀아트 원본(.aseprite)·PNG
 ```
 
 ## 크레딧 · 출처
 
-- 개발: 2022-2 명지대학교 게임프로그래밍 **6조** (상세 역할 분담은 `최종발표.pdf` 참고)
+- 개발: 2022-2 명지대학교 게임프로그래밍 **6조** 팀 프로젝트
 - 픽셀아트: 팀 직접 제작 (`aseprite자료/`)
 - 캐릭터 에셋: Unity Asset Store — [Cute 2D College Student](https://assetstore.unity.com/packages/2d/characters/cute-2d-college-student-198684)
 - 플레이어 컨트롤러는 위 에셋의 데모 스크립트를 팀이 확장·수정한 것입니다.
